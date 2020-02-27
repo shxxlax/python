@@ -21,7 +21,7 @@ print(msg)
 #loops
 
 for x in pets:
-    print("I wish I hads a " + x) 
+    print("I wish I had a " + x) 
 
 #user input
 ans=input("What kind of pet do you have?")
